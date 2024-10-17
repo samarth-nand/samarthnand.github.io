@@ -1,0 +1,68 @@
+{
+  "ascii": [
+    
+"     ███████╗ █████╗ ███╗   ███╗ █████╗ ██████╗ ████████╗██╗  ██╗    ███╗   ██╗ █████╗ ███╗   ██╗██████╗ ",
+"     ██╔════╝██╔══██╗████╗ ████║██╔══██╗██╔══██╗╚══██╔══╝██║  ██║    ████╗  ██║██╔══██╗████╗  ██║██╔══██╗",
+"     ███████╗███████║██╔████╔██║███████║██████╔╝   ██║   ███████║    ██╔██╗ ██║███████║██╔██╗ ██║██║  ██║",
+"     ╚════██║██╔══██║██║╚██╔╝██║██╔══██║██╔══██╗   ██║   ██╔══██║    ██║╚██╗██║██╔══██║██║╚██╗██║██║  ██║",
+"     ███████║██║  ██║██║ ╚═╝ ██║██║  ██║██║  ██║   ██║   ██║  ██║    ██║ ╚████║██║  ██║██║ ╚████║██████╔╝",
+"     ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝    ╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝ "
+                                                          
+  ],
+  "title": "Portfolio - Samarth Nand",
+  "username": "guest",
+  "hostname": "samarthnand.dev",
+  "password": "ArthurMorgan",
+  "repoLink": "https://github.com/samarth-nand/samarthnand.github.io.git",
+  "social": {
+    "email": "samarthnand112@gmail.com",
+    "github": "samarth-nand",
+    "linkedin": "samarthnand"
+  },
+  "aboutGreeting": "Hello there, I'm Samarth Nand. I'm a junior at University of, pursuing a degree in Computer Science. <br><br> When I'm not buried in code or tinkering with the latest tech, you can find me exploring new ways to merge innovation with everyday life.I thrive on challenges and love pushing the boundaries of what's possible. <br><br>My journey in the tech world has been anything but conventional – from developing secure applications for top social platforms to creating custom solutions for diverse clients. Every project I tackle is a new adventure, a chance to learn something new and make a real impact. <br><br> If you have a fun project to work upon or just want to say hi, feel free to reach out to me. I'm always up for a good chat!",
+  "work experience": [
+    [
+      "",
+      "Leatning Management System built within the Discord ecosystem.",
+      "https://github.com/code-wolf-byte/Discord-LMS"
+    ],
+    [
+      "Email-Bot",
+      "Fun project to use Discord as an email client.",
+      "https://github.com/code-wolf-byte/Email-Bot"
+    ],
+    [
+      "web-server",
+      "A blatent rip-off of (not really working) Nginx built in Rust.",
+      "https://github.com/code-wolf-byte/reverse-proxy-server/"
+    ]
+  ],
+  "resume":
+  {
+    "title": "Samarth Nand - Resume",
+    "file": "https://docs.google.com/document/d/1crMazWxFDOp8mGrjHFKKbO2i-R5cNAUDM4LJ19yJB5E/edit?usp=sharing"
+  },
+  "colors": {
+    "background": "#0C0623",
+    "foreground": "#F8DDE5",
+    "banner": "#FF9951",
+    "border": {
+      "visible": true,
+      "color": "#FFADE2"
+    },
+    "prompt": {
+      "default": "#A5A7A7",
+      "user": "#FE6BC9",
+      "host": "#70FDFF",
+      "input": "#FF7685"
+    },
+    "link": {
+      "text": "#B6AAEE",
+      "highlightColor": "#FFADE2",
+      "highlightText": "#0C0623"
+    },
+    "commands": {
+      "textColor": "#FD9BDB"
+    }
+  }
+}
