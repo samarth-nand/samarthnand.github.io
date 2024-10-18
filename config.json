@@ -19,8 +19,8 @@
     "github": "samarth-nand",
     "linkedin": "samarthnand"
   },
-  "aboutGreeting": "Hello there, I'm Samarth Nand. I'm a junior at University of, pursuing a degree in Computer Science. <br><br> When I'm not buried in code or tinkering with the latest tech, you can find me exploring new ways to merge innovation with everyday life.I thrive on challenges and love pushing the boundaries of what's possible. <br><br>My journey in the tech world has been anything but conventional – from developing secure applications for top social platforms to creating custom solutions for diverse clients. Every project I tackle is a new adventure, a chance to learn something new and make a real impact. <br><br> If you have a fun project to work upon or just want to say hi, feel free to reach out to me. I'm always up for a good chat!",
-  "work experience": [
+  "aboutGreeting": "Hello there, I'm Samarth Nand",
+  "projects": [
     [
       "",
       "Leatning Management System built within the Discord ecosystem.",
@@ -37,11 +37,16 @@
       "https://github.com/code-wolf-byte/reverse-proxy-server/"
     ]
   ],
+  "work": [
+      ["Marvin", "Software Engineering Intern   June 2024 - Present", "Eagan, MN", "<your-link-here>"],
+      ["MovieLens, GroupLens", "Software Engineering Assistant   March 2024 - Present", "Minneapolis, MN", "<your-link-here>"],
+      ["Socale", "Software Engineering Intern  October 2022  – August 2023", "San Diego, CA", "<your-link-here>"]
+    ],
+
   "resume":
-  {
-    "title": "Samarth Nand - Resume",
-    "file": "https://docs.google.com/document/d/1crMazWxFDOp8mGrjHFKKbO2i-R5cNAUDM4LJ19yJB5E/edit?usp=sharing"
-  },
+  [
+    ["https://docs.google.com/document/d/1crMazWxFDOp8mGrjHFKKbO2i-R5cNAUDM4LJ19yJB5E/edit?usp=sharing"]
+  ], 
   "colors": {
     "background": "#0C0623",
     "foreground": "#F8DDE5",
