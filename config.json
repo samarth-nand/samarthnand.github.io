@@ -19,22 +19,22 @@
     "github": "samarth-nand",
     "linkedin": "samarthnand"
   },
-  "aboutGreeting": "Hello there, I'm Samarth Nand",
+  "aboutGreeting": "Hello there, I'm Samarth Nand a juniour at the University of Minnesota, Twin Cities. I'm a software engineer with a passion for building things that live on the internet. I specialize in building (and occasionally designing) exceptional digital experiences. Currently, I'm focused on building accessible, human-centered products at the intersection of design and technology.",
   "projects": [
     [
-      "",
-      "Leatning Management System built within the Discord ecosystem.",
-      "https://github.com/code-wolf-byte/Discord-LMS"
+      "SmartDrive",
+      "The program will simulate reading sensor data, display the data to the console, and prompt you to press Enter to refresh the data.",
+      "https://github.com/samarth-nand/SmartDrive"
     ],
     [
-      "Email-Bot",
-      "Fun project to use Discord as an email client.",
-      "https://github.com/code-wolf-byte/Email-Bot"
+      "Drone Delivery Simulation",
+      "A drone delivery simulation built from scratch in C++.",
+      "https://github.com/samarth-nand/Drone-Delivery-Simulation"
     ],
     [
-      "web-server",
-      "A blatent rip-off of (not really working) Nginx built in Rust.",
-      "https://github.com/code-wolf-byte/reverse-proxy-server/"
+      "FaceReg",
+      "A basic facial recognition ML model build in python.",
+      "https://github.com/samarth-nand/Projects-Code-work/blob/main/Face_reg_Nearest_Neigbour_Classification.ipynb"
     ]
   ],
   "work": [
